@@ -144,12 +144,12 @@ h1, h2, h3, h4, h5 {{
 }}
 
 h1 {{
-    font-size: 4rem;
+    font-size: 8rem;
     margin-bottom: 0.3rem;
 }}
 
 img {{
-    max-width: 280px;
+    max-width: 400px;
     width: 100%;
     height: auto;
     display: block;
@@ -158,7 +158,7 @@ img {{
 }}
 
 h2 {{
-    font-size: 4rem;
+    font-size: 8rem;
     margin-top: 0.3rem;
 }}
 
@@ -192,7 +192,7 @@ alt="Family Guy logo"
 
 <h3>"{quoteString}"</h3>
 
-<h4>"Brian, don't you know that randomfamilyguyquote.com is the word? Well everyone knows that randomfamilyguyquote.com is the word!"</h4>
+<h4>"Brian, don't you know that <a href="https://random-family-guy-quote.onrender.com">random-family-guy-quote.onrender.com</a> is the word?<br>Well everyone knows that <a href="https://random-family-guy-quote.onrender.com">random-family-guy-quote.onrender.com</a> is the word!"</h4>
 
 <h5>Mom<br>says<br>I'm<br>special</h5>
 
