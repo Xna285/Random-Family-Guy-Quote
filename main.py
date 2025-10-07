@@ -13,6 +13,6 @@ app = FastAPI()
 
 @app.get("/", response_class=HTMLResponse)
 async def read_root():
-    return ReturnHTML(GetQuote(random.randint(1,5)))
+    return ReturnHTML(GetQuote(random.randint(1,100)))
     
 
