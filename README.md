@@ -5,3 +5,5 @@ Ever wanted a website that looks like it was made as a shitpost? Well here you g
 # Prepare to be amazed!
 
 This website uses Python- specifically FastAPI for the server/API handling. Render was used to deploy this on the goofy ahh web. Currently the link is https://random-family-guy-quote.onrender.com.
+
+(BTW, this is a troll website. If you were expecting quality... I don't know what to tell you G...)
