@@ -1,10 +1,3 @@
-quoteDict = {
-    1: "*breaks wall* OH YEAHHHHH",
-    2: "A boat's a boat but the mystery box could be anything it could even be a boat",
-    3: "Who the fuck starts a conversation like that?! I just sat down!",
-    4: "Roadhouse",
-    5: "Death to America <br> And butter sauce <br> Don't boil me <br> I'm still alive <br> Iraq Lobster <br> Iraq Lobster" 
-}
 
 quoteDict = {
     1: "Let’s go drink until we can’t feel feelings anymore. - Peter Griffin",
